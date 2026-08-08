@@ -1,27 +1,19 @@
-## 💼 Ziyad Derghazi
+# Hi, I'm Ziyad Derghazi
 
-### 👋 À propos de moi
-Étudiant en **informatique à l’ENSIMAG (Grenoble INP)**, actuellement en **deuxième année du parcours ISI (Informatique et Systèmes d’Information)**.  
-Je recherche un **stage de 2 à 3 mois**, à partir de **juin**, afin de mettre en pratique mes compétences en ingénierie logicielle et systèmes.
+Computer science student seeking a final-year internship in backend development, systems programming, or DevOps.
 
----
+I have project experience with backend software, relational databases, Linux development, and deployment automation. My academic projects also gave me strong foundations in low-level C programming and network programming.
 
-### 🧠 Compétences techniques
-**Langages :** C, Python, Java, SQL, Bash, R  
-**Outils et environnements :** Git, Linux, SQL Developer, CMake, Makefiles, VS Code, IntelliJ, Eclipse
+## Technical Skills
 
----
+- **Languages:** C, C++, Java, Python, SQL, Bash
+- **Backend and databases:** Java backend development, SQL, relational database design
+- **Low-level systems:** C programming, Linux, Make, Git, command-line development
+- **Networking:** network programming and network experimentation
+- **DevOps:** shell scripting, deployment automation, Azure Pipelines (YAML)
 
-### ⚙️ Domaines de compétence
-- Programmation orientée objet (Java, Python)
-- Systèmes d’exploitation et programmation système en C
-- Bases de données relationnelles (SQL)
-- Réseaux informatiques (TCP/IP, routage, modèles OSI)
-- Conception et analyse algorithmique (structures de données, optimisation du cache)
+## Contact
 
----
-
-### 📫 Me contacter
-- 📧 **Email :** ziyadderghazi@gmail.com  
-- 💼 **LinkedIn :** [linkedin.com/in/ziyad-derghazi-378906276](https://www.linkedin.com/in/ziyad-derghazi-378906276)  
-- 📱 **Téléphone :** 07 73 15 78 78
+- GitHub: [itisziyad](https://github.com/itisziyad)
+- LinkedIn: [linkedin.com/in/ziyad-derghazi-378906276](https://www.linkedin.com/in/ziyad-derghazi-378906276)
+- Email: [ziyadderghazi@gmail.com](mailto:ziyadderghazi@gmail.com)
